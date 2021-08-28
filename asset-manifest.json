@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/km2535/kiwitter.git/static/js/main.03c59a8f.chunk.js",
+    "main.js.map": "/km2535/kiwitter.git/static/js/main.03c59a8f.chunk.js.map",
+    "runtime-main.js": "/km2535/kiwitter.git/static/js/runtime-main.eb035e93.js",
+    "runtime-main.js.map": "/km2535/kiwitter.git/static/js/runtime-main.eb035e93.js.map",
+    "static/js/2.4db58467.chunk.js": "/km2535/kiwitter.git/static/js/2.4db58467.chunk.js",
+    "static/js/2.4db58467.chunk.js.map": "/km2535/kiwitter.git/static/js/2.4db58467.chunk.js.map",
+    "index.html": "/km2535/kiwitter.git/index.html",
+    "static/js/2.4db58467.chunk.js.LICENSE.txt": "/km2535/kiwitter.git/static/js/2.4db58467.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb035e93.js",
+    "static/js/2.4db58467.chunk.js",
+    "static/js/main.03c59a8f.chunk.js"
+  ]
+}

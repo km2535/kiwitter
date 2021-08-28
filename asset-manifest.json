@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/km2535/kiwitter.git/static/js/main.03c59a8f.chunk.js",
-    "main.js.map": "/km2535/kiwitter.git/static/js/main.03c59a8f.chunk.js.map",
-    "runtime-main.js": "/km2535/kiwitter.git/static/js/runtime-main.eb035e93.js",
-    "runtime-main.js.map": "/km2535/kiwitter.git/static/js/runtime-main.eb035e93.js.map",
-    "static/js/2.4db58467.chunk.js": "/km2535/kiwitter.git/static/js/2.4db58467.chunk.js",
-    "static/js/2.4db58467.chunk.js.map": "/km2535/kiwitter.git/static/js/2.4db58467.chunk.js.map",
-    "index.html": "/km2535/kiwitter.git/index.html",
-    "static/js/2.4db58467.chunk.js.LICENSE.txt": "/km2535/kiwitter.git/static/js/2.4db58467.chunk.js.LICENSE.txt"
+    "main.js": "/kiwitter/static/js/main.03c59a8f.chunk.js",
+    "main.js.map": "/kiwitter/static/js/main.03c59a8f.chunk.js.map",
+    "runtime-main.js": "/kiwitter/static/js/runtime-main.2a5afe5a.js",
+    "runtime-main.js.map": "/kiwitter/static/js/runtime-main.2a5afe5a.js.map",
+    "static/js/2.cfaee706.chunk.js": "/kiwitter/static/js/2.cfaee706.chunk.js",
+    "static/js/2.cfaee706.chunk.js.map": "/kiwitter/static/js/2.cfaee706.chunk.js.map",
+    "index.html": "/kiwitter/index.html",
+    "static/js/2.cfaee706.chunk.js.LICENSE.txt": "/kiwitter/static/js/2.cfaee706.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb035e93.js",
-    "static/js/2.4db58467.chunk.js",
+    "static/js/runtime-main.2a5afe5a.js",
+    "static/js/2.cfaee706.chunk.js",
     "static/js/main.03c59a8f.chunk.js"
   ]
 }
